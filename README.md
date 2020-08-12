@@ -1,3 +1,3 @@
-# Maker Foundation Multi-Collateral DAI Public Releases Page
+# Reflexer Labs GEB Public Releases Page
 
-Go to https://changelog.makerdao.com/ to see the details.
+Go to https://changelog.reflexer.finance/ to see the details.
