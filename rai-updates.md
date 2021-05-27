@@ -6,6 +6,7 @@
 - Deploy Global Settlement at `0xee4cf96e5359d9619197fd82b6ef2a9eae7b91e1` version [32b43c5](https://github.com/reflexer-labs/geb/blob/32b43c55a8ef8148d63f40456a409d29e46fa538/src/GlobalSettlement.sol)
 - Deploy ESM at `0xa33Ea2Ac39902d4A206D6A1F8D38c7330C80f094` version [e397055](https://github.com/reflexer-labs/esm/blob/704780c75b312ca1e0ba6cf511d3cbdbb73a743d/src/ESM.sol)
 - Deploy ESM Threshold Setter at `0x285969B92625020b0B7A16D2aa2A0f8577039ce1` version [167641a](https://github.com/reflexer-labs/geb-esm-threshold-setter/blob/1512f3e161fdfab23462c9b56aeba8d25265b062/src/ESMThresholdSetter.sol)
+- Deploy Uniswap RAI TWAP at `0xFbF4849a06F6e6F53EcB31D2f8BD61aA7874b268` version [dc014d5](https://github.com/reflexer-labs/geb-uniswap-median/blob/dc014d5848157cac2b5e25701ad806ec4c5866fc/src/UniswapConsecutiveSlotsPriceFeedMedianizer.sol)
 
 ### 17th- 21th of May
 - Deploy the RAI/ETH Uniswap V2 saviour at `0xA9402De5ce3F1E03Be28871b914F77A4dd5e4364` version [47c6f0d](https://github.com/reflexer-labs/geb-safe-saviours/blob/47c6f0d5e219e5b19985795d8d8d408b1f645022/src/saviours/NativeUnderlyingUniswapV2SafeSaviour.sol)
