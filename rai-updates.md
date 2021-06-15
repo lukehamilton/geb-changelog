@@ -2,6 +2,9 @@
 
 ## May 2021
 
+### 12th - 18th of May
+- Deploy ESM Threshold Setter at `0x93EBA2905a2293E5C367eF053B5c2c07dc401311` version [1512f3e](https://github.com/reflexer-labs/geb-esm-threshold-setter/blob/1512f3e161fdfab23462c9b56aeba8d25265b062/src/ESMThresholdSetter.sol)
+
 ### 22nd- 28th of May
 - Deploy Global Settlement at `0xee4cf96e5359d9619197fd82b6ef2a9eae7b91e1` version [32b43c5](https://github.com/reflexer-labs/geb/blob/32b43c55a8ef8148d63f40456a409d29e46fa538/src/GlobalSettlement.sol)
 - Deploy ESM at `0xa33Ea2Ac39902d4A206D6A1F8D38c7330C80f094` version [e397055](https://github.com/reflexer-labs/esm/blob/704780c75b312ca1e0ba6cf511d3cbdbb73a743d/src/ESM.sol)
