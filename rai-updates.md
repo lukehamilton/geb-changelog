@@ -2,6 +2,9 @@
 
 ## May 2021
 
+### 12th - 18th of May
+- Deploy ESM Threshold Setter at `0x93EBA2905a2293E5C367eF053B5c2c07dc401311` version [1512f3e](https://github.com/reflexer-labs/geb-esm-threshold-setter/blob/1512f3e161fdfab23462c9b56aeba8d25265b062/src/ESMThresholdSetter.sol)
+
 ### 29th of May - 5th of June
 - Deploy ESM Threshold Setter at `0xfb13059b11ac351968045af7c83a9d5250e4a3e6` version [167641a](https://github.com/reflexer-labs/geb-esm-threshold-setter/blob/1512f3e161fdfab23462c9b56aeba8d25265b062/src/ESMThresholdSetter.sol)
 
