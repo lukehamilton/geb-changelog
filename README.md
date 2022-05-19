@@ -1,1 +1,1 @@
-# Reflexer Labs GEB Public Releases Page
+# Reflexer GEB Public Releases Page
